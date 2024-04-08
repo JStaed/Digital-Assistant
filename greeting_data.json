@@ -1,0 +1,5 @@
+{
+    "morning" : ["Good morning, {user}"],
+    "afternoon" : ["Good afternoon, {user}"],
+    "evening" : ["Good evening, {user}"]
+}
